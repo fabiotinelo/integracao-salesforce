@@ -1,0 +1,6 @@
+Name,Marca__c,Ano_Modelo__c,Data_da_Compra__c,Observacao__c
+Carro 1,VW,2020,2020-01-02,
+Carro 5,Fiat,2019,2018-12-20,
+Carro 6,Toyota,2017,2017-01-01,"Aplicar pelicula protetora nos vidros"
+Carro 7,Ford,2018,2017-11-14,"Com pintura metálica"
+Carro 10,Honda,2020,2020-02-18,"Entrega agendada"
